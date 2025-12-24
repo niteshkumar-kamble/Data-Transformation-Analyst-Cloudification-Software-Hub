@@ -1,0 +1,4 @@
+vendor,tier,category,spend_ytd,savings_potential
+    VendorX,1,Observability,250000,35000
+    VendorY,2,Analytics,110000,12000
+    VendorZ,1,Database,380000,42000

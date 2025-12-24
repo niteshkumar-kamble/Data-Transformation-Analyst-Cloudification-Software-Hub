@@ -1,0 +1,14 @@
+{
+  "name": "Cloudification Theme",
+  "dataColors": [
+    "#0078D4",
+    "#00BCF2",
+    "#FFB900",
+    "#D83B01",
+    "#107C10",
+    "#6B69D6"
+  ],
+  "background": "#ffffff",
+  "foreground": "#323130",
+  "tableAccent": "#0078D4"
+}

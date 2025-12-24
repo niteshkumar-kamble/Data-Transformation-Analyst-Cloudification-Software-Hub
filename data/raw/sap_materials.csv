@@ -1,0 +1,7 @@
+sap_material_id,component,material_desc,active
+    MAT-9001,OpenSSL,OpenSSL cryptography library,1
+    MAT-9002,Log4j,Log4j logging framework,1
+    MAT-9003,NumPy,NumPy numerical library,1
+    MAT-9004,Pandas,Pandas data analysis library,1
+    MAT-9005,nginx,nginx web server,1
+    MAT-9006,PostgreSQL,PostgreSQL database,1

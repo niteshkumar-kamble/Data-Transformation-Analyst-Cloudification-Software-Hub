@@ -1,0 +1,21 @@
+
+<?xml version='1.0' encoding='utf-8' ?>
+<workbook version='10.5' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change version='10.5'/>
+  <datasources>
+    <datasource name='bom_products' inline='true'>
+      <connection class='textscan' dirname='..\..\data\raw' filename='bom_products.csv' />
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Overview'>
+      <table>
+        <view>
+          <datasource-dependencies>
+            <datasource name='bom_products'/>
+          </datasource-dependencies>
+        </view>
+      </table>
+    </worksheet>
+  </worksheets>
+</workbook>

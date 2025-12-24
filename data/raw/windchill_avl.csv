@@ -1,0 +1,7 @@
+windchill_avl_id,component,sap_material_id,approved
+    AVL-7001,OpenSSL,MAT-9001,1
+    AVL-7002,Log4j,MAT-9002,1
+    AVL-7003,NumPy,MAT-9003,1
+    AVL-7004,Pandas,MAT-9004,1
+    AVL-7005,nginx,MAT-9005,1
+    AVL-7006,PostgreSQL,MAT-9006,1

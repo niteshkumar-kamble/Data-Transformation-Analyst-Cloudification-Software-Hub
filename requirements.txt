@@ -1,0 +1,9 @@
+
+pandas
+numpy
+pyyaml
+matplotlib
+networkx
+pyarrow
+python-dotenv
+pytest

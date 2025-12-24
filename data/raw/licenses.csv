@@ -1,0 +1,7 @@
+entitlement_id,component,license,vendor,expiry_date,quantity
+    LIC-2001,OpenSSL,Apache-2.0,VendorX,2026-04-30,1000
+    LIC-2002,Log4j,Apache-2.0,VendorX,2025-06-30,800
+    LIC-2003,NumPy,BSD-3-Clause,VendorY,2025-12-31,500
+    LIC-2004,Pandas,BSD-3-Clause,VendorY,2026-03-31,500
+    LIC-2005,nginx,2-clause-BSD,VendorZ,2025-02-28,300
+    LIC-2006,PostgreSQL,PostgreSQL,VendorZ,2026-10-31,400
