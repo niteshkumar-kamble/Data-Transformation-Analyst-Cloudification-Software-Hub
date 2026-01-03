@@ -1,7 +1,7 @@
-bom_id,product_id,component,version,criticality
-    BOM-1001,PRD-ALPHA,OpenSSL,3.0.7,high
-    BOM-1001,PRD-ALPHA,Log4j,2.17.1,high
-    BOM-1002,PRD-BETA,NumPy,1.26.1,medium
-    BOM-1002,PRD-BETA,Pandas,2.0.3,medium
-    BOM-1003,PRD-GAMMA,nginx,1.25.3,high
-    BOM-1003,PRD-GAMMA,PostgreSQL,15.6,high
+bom_id,product_id,component,version,criticality,
+    BOM-1001,PRD-ALPHA,OpenSSL,3.0.7,high,2026-04-30
+    BOM-1001,PRD-ALPHA,Log4j,2.17.1,high,
+    BOM-1002,PRD-BETA,NumPy,1.26.1,medium,
+    BOM-1002,PRD-BETA,Pandas,2.0.3,medium,
+    BOM-1003,PRD-GAMMA,nginx,1.25.3,high,
+    BOM-1003,PRD-GAMMA,PostgreSQL,15.6,high,
